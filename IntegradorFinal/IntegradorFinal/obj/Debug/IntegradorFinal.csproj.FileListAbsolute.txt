@@ -1,0 +1,20 @@
+D:\Visual Studio\Trabajos\IntegradorFinal\IntegradorFinal\bin\Debug\IntegradorFinal.exe.config
+D:\Visual Studio\Trabajos\IntegradorFinal\IntegradorFinal\bin\Debug\IntegradorFinal.exe
+D:\Visual Studio\Trabajos\IntegradorFinal\IntegradorFinal\bin\Debug\IntegradorFinal.pdb
+D:\Visual Studio\Trabajos\IntegradorFinal\IntegradorFinal\obj\Debug\IntegradorFinal.csproj.AssemblyReference.cache
+D:\Visual Studio\Trabajos\IntegradorFinal\IntegradorFinal\obj\Debug\IntegradorFinal.Form1.resources
+D:\Visual Studio\Trabajos\IntegradorFinal\IntegradorFinal\obj\Debug\IntegradorFinal.Properties.Resources.resources
+D:\Visual Studio\Trabajos\IntegradorFinal\IntegradorFinal\obj\Debug\IntegradorFinal.csproj.GenerateResource.cache
+D:\Visual Studio\Trabajos\IntegradorFinal\IntegradorFinal\obj\Debug\IntegradorFinal.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Trabajos\IntegradorFinal\IntegradorFinal\obj\Debug\IntegradorFinal.exe
+D:\Visual Studio\Trabajos\IntegradorFinal\IntegradorFinal\obj\Debug\IntegradorFinal.pdb
+Z:\IntegradorFinal\IntegradorFinal\bin\Debug\IntegradorFinal.exe.config
+Z:\IntegradorFinal\IntegradorFinal\bin\Debug\IntegradorFinal.exe
+Z:\IntegradorFinal\IntegradorFinal\bin\Debug\IntegradorFinal.pdb
+Z:\IntegradorFinal\IntegradorFinal\obj\Debug\IntegradorFinal.csproj.AssemblyReference.cache
+Z:\IntegradorFinal\IntegradorFinal\obj\Debug\IntegradorFinal.Form1.resources
+Z:\IntegradorFinal\IntegradorFinal\obj\Debug\IntegradorFinal.Properties.Resources.resources
+Z:\IntegradorFinal\IntegradorFinal\obj\Debug\IntegradorFinal.csproj.GenerateResource.cache
+Z:\IntegradorFinal\IntegradorFinal\obj\Debug\IntegradorFinal.csproj.CoreCompileInputs.cache
+Z:\IntegradorFinal\IntegradorFinal\obj\Debug\IntegradorFinal.exe
+Z:\IntegradorFinal\IntegradorFinal\obj\Debug\IntegradorFinal.pdb
